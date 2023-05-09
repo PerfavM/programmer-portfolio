@@ -1,3 +1,11 @@
+#This is a Calculate Example
+#These are my ways to contact me.
+#Email: contactme@pfm-cv.me
+#Personal Email: moises.per.fav@gmail.com
+#Linkedin: https://www.linkedin.com/in/perez-favela-moises/
+#Portfolio Web: https://pfm-cv.me
+#GitHub: https://github.com/PerfavM
+
 num1 = float(input("    Type the first number\n     Digite un numero: "))
 num2 = float(input("    Type the second number\n    Digite otro numero: "))
 

@@ -1,8 +1,9 @@
 #This is a Password Generator
 #These are my ways to contact me.
-#Email: moises.per.fav@gmail.com
+#Email: contactme@pfm-cv.me
+#Personal Email: moises.per.fav@gmail.com
 #Linkedin: https://www.linkedin.com/in/perez-favela-moises/
-#Portfolio Web: https://pfm-cv.com
+#Portfolio Web: https://pfm-cv.me
 #GitHub: https://github.com/PerfavM
  
 import random

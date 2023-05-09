@@ -1,12 +1,15 @@
 #This is a Handman game in English
 #These are my ways to contact me.
-#Email: moises.per.fav@gmail.com
+#Email: contactme@pfm-cv.me
+#Personal Email: moises.per.fav@gmail.com
 #Linkedin: https://www.linkedin.com/in/perez-favela-moises/
-#Portfolio Web: https://pfm-cv.com
+#Portfolio Web: https://pfm-cv.me
 #GitHub: https://github.com/PerfavM
 
 import random
-from words import words
+""" import words """
+from words import wordss
+""" import hangman_visual """
 from hangman_visual import lives_visual_dict
 import string
 
@@ -21,7 +24,7 @@ def get_valid_word(words):
 
 
 def hangman():
-    word = get_valid_word(words)
+    word = get_valid_word(wordss)
     word_letters = set(word)  # letters in the word
     alphabet = set(string.ascii_uppercase)
     used_letters = set()  # what the user has guessed

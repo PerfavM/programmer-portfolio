@@ -1,9 +1,10 @@
 import time
 
-print('''  #Email: contactme@pfm-cv.dev
+print('''  #These are my ways to contact me.
+  #Email: contactme@pfm-cv.me
   #Personal Email: moises.per.fav@gmail.com
   #Linkedin: https://www.linkedin.com/in/perez-favela-moises/
-  #Portfolio Web: https://pfm-cv.dev
+  #Portfolio Web: https://pfm-cv.me
   #GitHub: https://github.com/PerfavM\n''')
 text = '  This file is a menu where all portfolio projects are listed as connected modules.\n  Este archivo es un menu donde vienen todos los proyectos del portafolio conectados como modulos\n \n  "Pleases select the language // Por favor selecione el idioma"\n'
 
@@ -35,7 +36,7 @@ if lan == 1:
   10.Binary Search
   11.Minesweeper
   12.Sudoku
-  13.bank\n''')
+  13.Bank\n''')
   """ 13.Binary Search
   14.Binary Search
   15.Pong

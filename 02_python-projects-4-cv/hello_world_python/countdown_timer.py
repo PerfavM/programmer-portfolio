@@ -1,15 +1,9 @@
 #This is a Countdown Timer
 #These are my ways to contact me.
-#Email: moises.per.fav@gmail.com
+#Email: contactme@pfm-cv.me
+#Personal Email: moises.per.fav@gmail.com
 #Linkedin: https://www.linkedin.com/in/perez-favela-moises/
-#Portfolio Web: https://pfm-cv.com
-#GitHub: https://github.com/PerfavM
-
-#This is a Coutdown Timer
-#These are my ways to contact me.
-#Email: moises.per.fav@gmail.com
-#Linkedin: https://www.linkedin.com/in/perez-favela-moises/
-#Portfolio Web: https://pfm-cv.com
+#Portfolio Web: https://pfm-cv.me
 #GitHub: https://github.com/PerfavM
 
 import time
