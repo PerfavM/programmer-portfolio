@@ -14,16 +14,8 @@ In the following folders are the files of the next languages:
     Tailwind
     Sass
     
-    React, React Native
-    Electron
-    Angular
+    React
     Node Js
     Vue Js
-  
-  #C, C++, C#, Visual Basic:
-  
-    Qt
-    .Net
-    wxWidgets
-    
-  #SQL, PHP
+
+  #SQL
