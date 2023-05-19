@@ -6,7 +6,7 @@ In the following folders are the files of the next languages:
     django
     Tkinter
     Pygame
-    wxPython
+    Pandas
     
   #Html, Css, JavaScrpt:
 
