@@ -18,4 +18,6 @@ In the following folders are the files of the next languages:
     Node Js
     Vue Js
 
-  #SQL
+  #SQL:
+  
+    PostgreSQL
